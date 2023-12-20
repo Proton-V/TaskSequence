@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskSequence.ConsoleApp", "src\TaskSequence.ConsoleApp\TaskSequence.ConsoleApp.csproj", "{61BEE5D6-4A32-4106-A34B-66D69B3B21EB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskSequence.ConsoleApp", "TaskSequence.ConsoleApp\TaskSequence.ConsoleApp.csproj", "{61BEE5D6-4A32-4106-A34B-66D69B3B21EB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskSequence.Common", "src\TaskSequence.Common\TaskSequence.Common.csproj", "{1CF1759D-E45D-413F-8AAC-A1F0AFAEBEE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TaskSequence.Common", "TaskSequence.Common\TaskSequence.Common.csproj", "{1CF1759D-E45D-413F-8AAC-A1F0AFAEBEE6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
